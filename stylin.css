@@ -1,4 +1,35 @@
-/* .body {
-    background-image: url("#");
+body {
+    /* background-image: url("https://files.123freevectors.com/wp-content/original/130864-black-and-white-polygon-background-graphic-design.jpg"); */
+    background-image: url("./BG.jpg");
     position: fixed;
-} */
+}
+
+.card {
+    background-color: rgb(247, 248, 242);
+    opacity: 0.9;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+    margin: 1rem;
+    text-align: center;
+
+}
+
+li {
+    color: white;
+    background-color: darkred;
+    margin: .1rem;
+    border: solid;
+    border-radius: 10%;
+    border-color: black;
+}
+
+#main #heading {
+    width: 100%;
+    height: 100%;
+}
+
+.hide {
+    display:none;
+}
+
