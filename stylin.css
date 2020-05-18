@@ -23,6 +23,9 @@ li {
     border-radius: 10%;
     border-color: black;
 }
+li:hover {
+    cursor: crosshair;
+}
 
 #main #heading {
     width: 100%;
